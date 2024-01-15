@@ -3,6 +3,9 @@
 ## Stack
 - Node, ejs, mongodb, css, bootstrap
 
+## Screenshots
+![](./public/images/countries.png)
+
 ### About app
 - App to post secret anonymously.
 - Homepage with two buttons i.e. register and login
