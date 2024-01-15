@@ -4,7 +4,9 @@
 - Node, ejs, mongodb, css, bootstrap
 
 ## Screenshots
-![](./public/images/countries.png)
+![](./public/images/signin.png)
+![](./public/images/home.png)
+![](./public/images/post.png)
 
 ### About app
 - App to post secret anonymously.
